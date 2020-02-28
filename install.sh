@@ -49,7 +49,7 @@ fi
 if [[ -d 'PhishX' ]]; then
 	sleep 1
 else
-	git clone https://github.com/rezaaksa/PhishX.git
+	git clone https://github.com/raw1asura/PhishX.git
 	cd PhishX
 	chmod +x installer.sh
 	bash installer.sh
